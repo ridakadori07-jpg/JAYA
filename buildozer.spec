@@ -12,7 +12,7 @@ source.exclude_dirs = tests,bin,.git,__pycache__
 version = 0.1.0
 
 # Core dependencies (lightweight for Redmi Note 11 Pro 5G)
-requirements = python3,kivy==2.3.1,kivymd==1.2.0,sqlite3,pyjnius==1.9.0,requests,certifi,urllib3,idna,chardet,six
+requirements = python3,kivy==2.3.1,kivymd==1.2.0,sqlite3,pyjnius==1.9.0,requests,certifi,urllib3,idna,chardet,six,pillow
 
 orientation = portrait
 fullscreen = 0
